@@ -10,7 +10,7 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-![Equator](Images/equatorsign.png)
+![equatorsign](https://user-images.githubusercontent.com/74845016/107729571-eb274880-6cb6-11eb-8119-1fdafda0f63e.png)
 
 ### Before You Begin
 
