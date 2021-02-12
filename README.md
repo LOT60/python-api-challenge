@@ -87,7 +87,7 @@ To complete this part of the assignment,you will need to do the following:
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](Images/hotel_map.png)
+  ![hotel_map](https://user-images.githubusercontent.com/74845016/107729755-55d88400-6cb7-11eb-993e-81eeeb87f4d1.png)
 
 As final considerations:
 
