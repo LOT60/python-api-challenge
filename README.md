@@ -69,7 +69,7 @@ To complete this part of the assignment,you will need to do the following:
 
 * Create a heat map that displays the humidity for every city from Part I.
 
-  ![heatmap](Images/heatmap.png)
+  ![heatmap](https://user-images.githubusercontent.com/74845016/107729705-34779800-6cb7-11eb-8d41-ed000a817559.png)
 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
